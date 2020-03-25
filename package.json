@@ -1,0 +1,15 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "test node",
+  "main": "Atelier node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node AtelierNode.js"
+  },
+  "author": "Tanguy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
